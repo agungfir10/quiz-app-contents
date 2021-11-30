@@ -8,7 +8,7 @@ Konsep Reaksi Redoks berkembang mengikuti zaman. Mulanya pada abad ke-19 ahli ki
 
 Redoks merupakan reaksi dimana terjadi proses reduksi dan oksidasi. Reduksi merupakan proses pelepasan oksigen dimana zat yang mengalami reduksi disebut Oksidator. Sedangkan reaksi Oksidasi merupakan proses penggabungan oksigen, dimana zat yang mengalami oksidasi disebut reduktor. Contoh :
 
-![Konsep Redoks Berdasarkan Penggabungan dan Pelepasan Oksigen](./images/konsep-redoks-berdasarkan-penggabungan-dan-pelepasan-oksigen.png)
+![Konsep Redoks Berdasarkan Penggabungan dan Pelepasan Oksigen](https://raw.githubusercontent.com/agungfir10/quiz-app-contents/master/images/konsep-redoks-berdasarkan-penggabungan-dan-pelepasan-oksigen.png)
 Contoh diatas mengalami reaksi reduksi dan oksidasi dalam satu reaksi sekaligus. Dapat diketahui bahwa CuO merupakan oksidator sebab setelah mengalami reaksi ia melepaskan oksigen,hal ini berarti telah terjadi reaksi reduksi. Sedangkan H2 merupakan reduktor dimana setelah reaksi terjadi ia menangkap satu unsur oksigen, hal ini berarti telah terjadi reaksi oksidasi.
 
 - Oksidasi merupakan peristiwa pengikatan oksigen
@@ -43,7 +43,7 @@ Dalam menentukan bilangan oksidasi terdapat beberapa aturan, diantaranya :
 
 Perubahan bilangan oksidasi unsur pada suatu reaksi menunjukkan adanya reaksi reduksi dan oksidasi didalamnya. Untuk lebih mempermudah perhatikan contoh reaksi dibawah ini :
 
-![Penggabungan Bilangan Oksidasi pada Redoks](./images/penggabungan-bilangan-oksidasi-pada-redoks.png)
+![Penggabungan Bilangan Oksidasi pada Redoks](https://raw.githubusercontent.com/agungfir10/quiz-app-contents/master/images/penggabungan-bilangan-oksidasi-pada-redoks.png)
 
 Dari persamaan reaksi tersebut dapat dilihat bahwasanyya bilangan oksidasi Cu pada CuO adalah +2 dan bilangan oksidasi Cu adalah 0, terjadi penurunan bilangan oksida. Kemudian bilangan oksidasi H2 adalah 0 dan bilangan oksidasi H pada H2O adalah -1, terjadi kenaikan bilangan oksidasi. Pada persamaan reaksi tersebut, CuO mengalami reduksi karena mengalami penurunan bilangan oksidasi dan H2 mengalami oksidasi sebab mengalami kenaikan bilangan oksidasi
 
