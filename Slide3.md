@@ -1,4 +1,8 @@
-<h1 align="center">Bilangan Oksidasi</h1>
+## Materi Redoks Part I (Bilangan Oksidasi)
+
+### Mari Simak Videonya!
+
+<h3 align="center">Bilangan Oksidasi</h3>
 
 Bilangan oksidasi merupakan besarnya muatan yang dimiliki oleh atom dalam suatu senyawa jika semua elektron ikatan didistribusikan kepada unsur yang lebih elektronegatif. Dalam menentukan bilangan oksidasi terdapat beberapa aturan yang digunakan, diantaranya:
 
@@ -30,7 +34,7 @@ Bilangan oksidasi merupakan besarnya muatan yang dimiliki oleh atom dalam suatu 
 
    a. Biloks umum H adalah +1
 
-   Contoh : biloks unsur H dalam HCl dan H2SO4 adalah +1
+   Contoh : biloks unsur H dalam HCl dan H<sub>2</sub>SO<sub>4</sub> adalah +1
 
    b. Pada hidrida, logam H memiliki biloks -1
 
@@ -42,7 +46,7 @@ Bilangan oksidasi merupakan besarnya muatan yang dimiliki oleh atom dalam suatu 
 
    b. Pada senyawa peroksida, oksigen memiliki biloks -1. Contoh : pada K₂O₂, H₂O₂, MgO₂ biloks oksigen adalah -1
 
-   c. Pada senyawa superoksida, oksigen memiliki biloks -1/2. Contoh : pada KO₂, HO₂, MgO4 biloks oksigen adalah -1/2
+   c. Pada senyawa superoksida, oksigen memiliki biloks -1/2. Contoh : pada KO₂, HO₂, MgO₄ biloks oksigen adalah -1/2
 
    d. Pada senyawa F₂O, oksigen memiliki biloks +2
 
@@ -56,6 +60,6 @@ Bilangan oksidasi merupakan besarnya muatan yang dimiliki oleh atom dalam suatu 
 
    Contoh : pada ion NO³¯ biloks N adalah +3 dan biloks 0 adalah -1
 
-#### Sumber :
+###### Sumber :
 
 - https://youtu.be/pihO0c2AF5Y

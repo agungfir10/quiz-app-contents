@@ -1,4 +1,4 @@
-<h1 align="center">Reaksi Reduksi Oksidasi (Redoks)</h1>
+<h3 align="center">Reaksi Reduksi Oksidasi (Redoks)</h3>
 
 <ol type="A">
 <li>
@@ -20,7 +20,7 @@ Oksidasi berdasarkan biloks merupakan reaksi kenaikan atau penambahan bilangan o
 
 Dalam reaksi di atas diketahui bahwa C dalam wujud padatannya memiliki bilangan oksidasi 0 sedangkan CO₂ bilangan oksidasinya adalah +4. Disini dapat terlihat bahwa bilangan oksidasi naik, sehingga reaksi di atas dapat disebut sebagai reaksi oksidasi. Kemudian berikut merupakan contoh dari reaksi reduksi :
 
-![Biloks Br Turun](https://raw.githubusercontent.com/agungfir10/quiz-app-contents/master/images/penggabungan-bilangan-oksidasi-pada-redoks.png)
+![Biloks Br Turun](https://raw.githubusercontent.com/agungfir10/quiz-app-contents/master/images/biloks%20br%20turun.png)
 
 (Biloks Br Turun)
 
@@ -84,7 +84,7 @@ Ba<sub>(s)</sub> → Ba<sup>2+</sup><sub>(aq)</sub> + 2e<sup>- </sup>
 
 Pada reaksi di atas diketahui bahwa Ba melepas 2 elektron menjadi Ba<sup>2+</sup>, berarti Ba mengalami kenaikan biloks. Oleh karena itu Ba disebut sebagai reduktor. Kemudian selanjutnya terdapat reaksi sebagai berikut :
 
-Br<sub>2(g)</sub> + 2e<sub>-</sub> → 2Br<sup>-</sup><sub>(aq)</sub>
+Br<sub>2(g)</sub> + 2e<sup>-</sup> → 2Br<sup>-</sup><sub>(aq)</sub>
 
 Pada reaksi di atas diketahui bahwa Br<sub>2</sub> mengikat 2 elektron menjadi 2Br<sup>-</sup>, berarti Br mengalami penurunan biloks. Oleh karena itu Br disebut sebagai oksidator.
 
@@ -107,6 +107,6 @@ Reaksi di atas merupakan reaksi antara hidrogen sulfida dengan belerang dioksida
 </li>
 </ol>
 
-#### Sumber :
+###### Sumber :
 
 - https://youtu.be/EERGuhL_Dh8

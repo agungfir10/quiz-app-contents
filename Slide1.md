@@ -1,8 +1,8 @@
-# Peristiwa Reduksi - Okdisasi dalam Kehidupan Sehari-hari
+### Peristiwa Reduksi - Okdisasi dalam Kehidupan Sehari-hari
 
-## Mari Simak Videonya!
+#### Mari Simak Videonya!
 
-#### Sumber :
+###### Sumber :
 
 - https://youtu.be/5esScNCyN_k
 - https://youtu.be/dWd0R2EJWJQ

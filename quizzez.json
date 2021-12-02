@@ -1,0 +1,744 @@
+{
+    "contents": [
+        {
+            "body": "<h3>1. Unsur mangan memiliki nilai oksidasi tertinggi pada senyawa...</h3>",
+            "image": "",
+            "explain": "",
+            "answers": [
+                {
+                    "answer": "MnO<sub>2</sub>",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "A"
+                },
+                {
+                    "answer": "Mn",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "B"
+                },
+                {
+                    "answer": "MnO₄",
+                    "correct_answer": true,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "MnO₄²",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "D"
+                },
+                {
+                    "answer": "MnSO₄",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "E"
+                }
+            ]
+        },
+        {
+            "body": "2. 2Cr + 3CuSO₄ → Cr₂(SO₄)₃ + 3Cu\nPada reaksi tersebut yang merupakan reduktor adalah....",
+            "image": "",
+            "explain": "Reduktor adalah suatu spesi yang mereduksi zat lainnya, namun spesi itu sendiri mengalami oksidasi.\nPada reaksi di atas, Cr mengalami perubahan biloks dari 0 menjadi +3, maka Cr mengalami oksidasi. Jadi, Cr bertindak sebagai reduktor.\n",
+            "answers": [
+                {
+                    "answer": "Cr",
+                    "correct_answer": true,
+                    "is_click": false,
+                    "option": "A"
+                },
+                {
+                    "answer": "CuSO₄",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "B"
+                },
+                {
+                    "answer": "Cu",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "Cr₂(SO₄)₃",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "D"
+                },
+                {
+                    "answer": "Cr dan CuSO₄",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "D"
+                }
+            ]
+        },
+        {
+            "body": "3. Perhatikan reaksi berikut!\nZn(s) + NiCl₂(aq) →  ZnCl₂(aq) + Ni(s)\nPada reaksi tersebut bilangan oksidasi Zn berubah dari …",
+            "image": "",
+            "explain": "Pada reaksi tersebut diketahui bahwa Zn mengalami perubahan biloks dari yang semula 0 pada unsur Zn kemudian naik menjadi +2 pada unsur ZnCl₂",
+            "answers": [
+                {
+                    "answer": "-2 menjadi 0",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "A"
+                },
+                {
+                    "answer": "-2 menjadi +2",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "B"
+                },
+                {
+                    "answer": "+2 menjadi 0",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "0 menjadi -2",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "D"
+                },
+                {
+                    "answer": "0 menjadi +2",
+                    "correct_answer": true,
+                    "is_click": false,
+                    "option": "E"
+                }
+            ]
+        },
+        {
+            "body": "4. Perhatikan reaksi berikut!\n2Fe²(aq) + Cl₂(g) →  2Fe³+(aq) + 2Cl-(aq)\nYang bertindak sebagai oksidator yakni …\n",
+            "image": "",
+            "explain": "Oksidator adalah suatu spesi yang mengoksidasi zat lainnya, namun spesi itu sendiri mengalami reduksi.\nPada reaksi di atas, Cl mengalami perubahan biloks dari 0 menjadi -1, maka Cl mengalami reduksi. Jadi, Cl bertindak sebagai oksidator.\n",
+            "answers": [
+                {
+                    "answer": "CI₂",
+                    "correct_answer": true,
+                    "is_click": false,
+                    "option": "A"
+                },
+                {
+                    "answer": "Cl",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "B"
+                },
+                {
+                    "answer": "Cl‾",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "Fe²+",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "D"
+                },
+                {
+                    "answer": "Fe³+",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "E"
+                }
+            ]
+        },
+        {
+            "body": "5. Perhatikan reaksi berikut!\nMg + 2HCl → MgCl₂+H₂\nReaksi di atas disebut reaksi redoks. Pernyataan yang benar untuk reaksi di atas adalah …\n",
+            "image": "",
+            "explain": "Pernyataan pada soal yang benar adalah E karena reaksi redoks merupakan reaksi reduksi oksidasi dimana pada reaksi tersebut Mg mengalami peningkatan bilangan oksidasi (oksidasi) dan Hidrogen mengalami penurunan bilangan oksidasi (reduksi)",
+            "answers": [
+                {
+                    "answer": "Ion Cl- berubah menajdi senyawa MgCl₂",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "A"
+                },
+                {
+                    "answer": "Senyawa HCl berubah menjadi MgCl₂",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "B"
+                },
+                {
+                    "answer": "Logam Mg berubah menjadi senyawa MgCl₂",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "Logam Mg mengikat H dari senyawa HCl",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "D"
+                },
+                {
+                    "answer": "Logam Mg mengalami peningkatan bilangan oksidasi dan hidrogen mengalami penurunan bilangan oksidasi",
+                    "correct_answer": true,
+                    "is_click": false,
+                    "option": "E"
+                }
+            ]
+        },
+        {
+            "body": "6. Di bawah ini yang merupakan reaksi redoks adalah …",
+            "image": "",
+            "explain": "Reaksi yang termasuk redoks adalah 2HCl + Zn → ZnCl₂ + H₂ karena pada reaksi ini terjadi kenaikan bilangan oksidasi pada Zn dari 0 ke +2 dan penurunan bilangan oksidasi pada Hidrogen dari +1 ke 0.\nReaksi pada opsi a bukan merupakan reaksi redoks karena tidak terdapat proses reduksi ataupun oksidasi. Lalu reaksi pada opsi b bukan merupakan redoks karena tidak ada biloks yang berubah lalu pada reaksi opsi d bukan merupakan reaksi redoks karena hanya terdapat proses reaksi reduksi pada unsur Pb dan opsi e juga bukan merupakan reaksi redoks karena tidak terjadi reaksi reduksi maupun oksidasi.\n",
+            "answers": [
+                {
+                    "answer": "2NaOH + H₂SO₄ → Na2SO4 +2H₂O",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "A"
+                },
+                {
+                    "answer": "AgNO₃ + NaCl → AgCl + NaNO₃",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "B"
+                },
+                {
+                    "answer": "2HCl + Zn → ZnCl₂ + H₂",
+                    "correct_answer": true,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "PbO₂ + 2H₂SO₄ +Pb → 2Pb₂SO₄ + 2H₂O",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "D"
+                },
+                {
+                    "answer": "Pb(NO₃)₂ + 2KI → PbI₂ +2KNO₃",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "E"
+                }
+            ]
+        },
+        {
+            "body": "7. Perhatikan reaksi berikut!\n3Cu + 8HNO₃ → 3Cu(NO₃)₂ + 4H₂O +2NO\nDalam reaksi tersebut yang bertindak sebagai pereduksi adalah …\n",
+            "image": "",
+            "explain": "Pada soal diketahui bahwa biloks Cu mengalami kenaikan dari 0 menjadi +2 maka Cu mengalami oksidasi maka Cu berperan sebagai reduktor atau pereduksi.",
+            "answers": [
+                {
+                    "answer": "NO",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "A"
+                },
+                {
+                    "answer": "Cu",
+                    "correct_answer": true,
+                    "is_click": false,
+                    "option": "B"
+                },
+                {
+                    "answer": "3Cu(NO₃)",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "H₂O",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "D"
+                },
+                {
+                    "answer": "HNO₃",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "E"
+                }
+            ]
+        },
+        {
+            "body": "8. Perhatikan reaksi berikut!\n2KClO₃ → 2KCl + 2O₂\nAtom klor mengalami perubahan bilangan oksidasi menjadi …\n",
+            "image": "",
+            "explain": "Pada reaksi tersebut atom klor mengalami penurunan bilangan oksidasi. Pada senyawa KClO₃  atom klor memiliki bilangan oksidasi +7 kemudian pada KCl bilangan oksidasi atom klor menjadi +1",
+            "answers": [
+                {
+                    "answer": "-2",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "A"
+                },
+                {
+                    "answer": "-1",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "B"
+                },
+                {
+                    "answer": "0",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "+1",
+                    "correct_answer": true,
+                    "is_click": false,
+                    "option": "D"
+                },
+                {
+                    "answer": "+2",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "E"
+                }
+            ]
+        },
+        {
+            "body": "9. Berikut yang termasuk reaksi oksidasi yang benar adalah …",
+            "image": "",
+            "explain": "Reaksi oksidasi merupakan  peristiwa pengikatan oksigen oleh suatu zat. Pada soal yang termasuk reaksi oksidasi adalah opsi a, sedang opsi b,c,d dan e merupakan reaksi reduksi sebab terjadi peristiwa pelepasan elektron pada obsi b,c, d dan e.",
+            "answers": [
+                {
+                    "answer": "Mg(s) + 2e- → Mg²+",
+                    "correct_answer": true,
+                    "is_click": false,
+                    "option": "A"
+                },
+                {
+                    "answer": "Na(s) → Na²+(aq) + 2e-",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "B"
+                },
+                {
+                    "answer": "Cu²+(aq) → Cu(s) + 2e-",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "Al(s) → Al3+(aq) + 3e-",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "D"
+                },
+                {
+                    "answer": "Ca(s) → Ca3+(aq) + 3e-",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "E"
+                }
+            ]
+        },
+        {
+            "body": "10. Perhatikan reaksi berikut!\nZn(s) + CuO(aq) → ZnO₂(aq) + Cu(s)\nReaksi di atas mengalami proses …\n",
+            "image": "",
+            "explain": "‘Zn di reaktan tidak memiliki oksigen sedang Zn di produk memiliki oksigen, artinya atom Zn telah mengikat oksigen yang diberikan oleh CuO, maka Zn mengalami oksidasi. Sedang CuO yang memberikan atom oksigennya pada Zn hingga akhirnya terbentuk atom Cu maka CuO mengalami proses reduksi.\nMaka reaksi tersebut mengalami reaksi rduksi dan oksidasi\n",
+            "answers": [
+                {
+                    "answer": "Oksidasi",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "A"
+                },
+                {
+                    "answer": "Reduksi",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "B"
+                },
+                {
+                    "answer": "Reduksi – Oksidasi",
+                    "correct_answer": true,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "Kenaikan bilangan oksidasi",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "D"
+                },
+                {
+                    "answer": "Penurunan bilangan oksidasi",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "E"
+                }
+            ]
+        },
+        {
+            "body": "11. Bilangan oksidasi pada atom MnO₄²- adalah …",
+            "image": "",
+            "explain": "Mn + (bo O x 4) = -2\nMn + (-2 x 4) = -2\nMn -8 = -2\nMn = -2 + 8 = +6\n",
+            "answers": [
+                {
+                    "answer": "+4",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "A"
+                },
+                {
+                    "answer": "-4",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "B"
+                },
+                {
+                    "answer": "-6",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "+6",
+                    "correct_answer": true,
+                    "is_click": false,
+                    "option": "D"
+                },
+                {
+                    "answer": "-2",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "E"
+                }
+            ]
+        },
+        {
+            "body": "12. Perhatikan reaksi berikut!\nSO₃² → SO₄²\nReaksi di atas merupakan reaksi …\n",
+            "image": "",
+            "explain": " Reaksi SO₃²- → SO₄²- mengalami proses oksidasi dimana bilangan oksidasi S berubah dari +4 menjadi +6",
+            "answers": [
+                {
+                    "answer": "Redoks",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "A"
+                },
+                {
+                    "answer": "Reduksi",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "B"
+                },
+                {
+                    "answer": "Kenaikan dan Penurunan bilangan oksidasi",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "Penurunan bilangan oksidasi",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "D"
+                },
+                {
+                    "answer": "Kenaikan bilangan oksidasi",
+                    "correct_answer": true,
+                    "is_click": false,
+                    "option": "E"
+                }
+            ]
+        },
+        {
+            "body": "13. Atom nitrogen pada senyawa N₂O₃ memiliki bilangan oksidasi …",
+            "image": "",
+            "explain": "Bilangan oksidgen N pada N₂O₃ :\nN x 1 + (bo H x 4) = +1\nN + (1x4) = +1\nN = 1-4 = -3\n",
+            "answers": [
+                {
+                    "answer": "+3",
+                    "correct_answer": true,
+                    "is_click": false,
+                    "option": "A"
+                },
+                {
+                    "answer": "-2",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "B"
+                },
+                {
+                    "answer": "-1",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "0",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "D"
+                },
+                {
+                    "answer": "+1",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "E"
+                }
+            ]
+        },
+        {
+            "body": "14. Perhatikan beberapa reaksi berikut!\n1. 2HCl + Zn → ZnCl₂ + H₂\n2. PbO₂ + 2H₂SO₄ +Pb → 2PbSO₄ + 2H₂O\n3. AgNO₃ + NaCl → AgCl + NaNO₃\n4. MnO₂ + 4HCl → MnCl₂ + Cl₂ + 2H₂O\n5. PbO + H₂SO₄ → PbSO₄ → H₂O\nDiantara beberapa reaksi di atas yang merupakan reaksi redoks adalah.…",
+            "image": "",
+            "explain": "• Nomor 1 merupakan redoks sebab terjadi proses penurunan bilok H dari +1 ke 0 dan kenaikan bilok Zn dari 0 ke +2\n• Nomor 2 bukan merupakan redoks hanya mengalami reduksi saja dimana bilok Pb mengalami penurunan dari +4 menjadi 0\n• Nomor 3 bukan  termasuk redoks sebab tidak ada proses baik reduksi maupun oksidasi\n• Nomor 4 merupakan redoks sebab terjadi proses penurunan bilok Mn dari +4 ke +2 dan kenaikan bilok Cl dari -1 ke 0\n• Nomor 5 bukan  termasuk redoks sebab tidak ada proses baik reduksi maupun oksidasi\n",
+            "answers": [
+                {
+                    "answer": "1 dan 3",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "A"
+                },
+                {
+                    "answer": "1 dan 4",
+                    "correct_answer": true,
+                    "is_click": false,
+                    "option": "B"
+                },
+                {
+                    "answer": "2 dan 3",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "2 dan 4",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "D"
+                },
+                {
+                    "answer": "2 dan 5",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "E"
+                }
+            ]
+        },
+        {
+            "body": "15. Bilangan oksidasi Fe pada FeSO₄ adalah …",
+            "image": "",
+            "explain": "FeSO₄ = (1 x bo Fe) + (1xbo S) + (4xbo S)\n0 = (1xFe) + (1x6) + (1x(-2))\n0 = Fe +6 – 8\nFe = +2\n",
+            "answers": [
+                {
+                    "answer": "-1",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "A"
+                },
+                {
+                    "answer": "+1",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "B"
+                },
+                {
+                    "answer": "0",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "-2",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "D"
+                },
+                {
+                    "answer": "+2",
+                    "correct_answer": true,
+                    "is_click": false,
+                    "option": "E"
+                }
+            ]
+        },
+        {
+            "body": "16. Perhatikan reaksi berikut!\nMnO₂+4HCl → MnCl₂ + Cl₂ + 2H₂O\nPeran MnO₂ , HCl, dan MnCl₂  berturut-turut pada reaksi tersebut adalah …",
+            "image": "",
+            "explain": "• MnO₂ pada reaksi tersebut mengalami penurunan biloks dari +4 ke +2 sehingga disebut Oksidator\n• HCl pada reaksi tersebut mengalami kenaikan biloks dari -1 ke 0 sehingga disebut Reduktor\n• MnCl₂ merupakan hasil oksidasi dimana MnCl₂ merupakan zat diproduk akibat mengalami reaksi oksidasi",
+            "answers": [
+                {
+                    "answer": "Hasil reduksi, oksidator, reduktor",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "A"
+                },
+                {
+                    "answer": "Hasil oksidasi, reduktor, oksidator",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "B"
+                },
+                {
+                    "answer": "Oksidator, reduktor, hasil oksidasi",
+                    "correct_answer": true,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "Reduktor, oksidator, hasil oksidasi",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "D"
+                },
+                {
+                    "answer": "Oksidator, reduktor, hasil reduksi",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "E"
+                }
+            ]
+        },
+        {
+            "body": "17. Sebelum fotografi digital berkembang, pembuatan foto dilakukan dengan cara menyimpan gambar pada film yang mengandung AgBr. Film fotografi hitam-putih yang mengandung kristal tipis perak bromida (AgBr) dalam gelatin. Jika film hitam-putih dipaparkan pada sinar matahari akan terjadi reaksi sebagai berikut:\n2 AgBr (s) →  2 Ag (s) + Br2(s)\nZat yang akan mengalami oksidasi dan reduksi adalah.…\n",
+            "image": "",
+            "explain": "Ion bromida teroksidasi karena melepaskan elektron menjadi gas brom\n2 Br - (s) → Br ₂(g) + 2 e - (oksidasi)\nIon perak tereduksi karena menerima elektron membentuk logam perak\n2 Ag(s) + 2 e - →2 Ag (s) (reduksi)\n",
+            "answers": [
+                {
+                    "answer": "Br dan Ag",
+                    "correct_answer": true,
+                    "is_click": false,
+                    "option": "A"
+                },
+                {
+                    "answer": "Ag dan AgBr",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "B"
+                },
+                {
+                    "answer": "Ag dan Br",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "AgBr dan Br",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "D"
+                },
+                {
+                    "answer": "AgBr dan Ag",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "E"
+                }
+            ]
+        },
+        {
+            "body": "18. Perhatikan kegiatan berikut!\n1. Konsep redoks diterapkan dalam penyepuhan emas\n2. Dalam bidang industri diterapkan sebagai pelapisan serta pengolahan logam\n3. Pada metode lumpur aktif terjadi reaksi  reaksi oksidasi untuk pertumbuhan bakteri aerob dan terjadi proses reduksi pada proses substrata tau buangan\n4. Reaksi redoks digunakan dalam aki dan baterai sebagai sumber energi listrik\nDari beberapa kegiatan berikut yang termasuk kegiatan redoks dalam kehidupan sehari-hari adalah….\n",
+            "image": "",
+            "explain": "Yang merupakan kegiatan redoks dalam kegiatan sehari-hari diantaranya :\n\n1. Konsep redoks diterapkan dalam penyepuhan emas\n2. Dalam bidang industri diterapkan sebagai pelapisan serta pengolahan logam\n3. Pada metode lumpur aktif terjadi reaksi  reaksi oksidasi untuk pertumbuhan bakteri aerob dan terjadi proses reduksi pada proses substrata tau buangan\n4. Reaksi redoks digunakan dalam aki dan baterai sebagai sumber energi listrik\n",
+            "answers": [
+                {
+                    "answer": "1 dan 4",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "A"
+                },
+                {
+                    "answer": "1,2,3 dan 4",
+                    "correct_answer": true,
+                    "is_click": false,
+                    "option": "B"
+                },
+                {
+                    "answer": "1,2 dan 3",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "1 dan 2",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "D"
+                },
+                {
+                    "answer": "1 saja",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "E"
+                }
+            ]
+        },
+        {
+            "body": "19. Perhatikan reaksi berikut!\n1. PbO₂ + 4HCl →  PbCl₂ + 2H₂O + Cl₂ \n2. 2Al +  3Cu(NO₃)₂ → 2Al(NO₃)₃ + 3Cu\n3. CS₂ + 3O₂ → CO₂ + SO₂\n4. ZnSO₄ +  KCl → ZnCl₂  +  K₄SO₄\nDari beberapa reaksi berikut yang bukan merupakan reaksi redoks adalah …\n",
+            "image": "",
+            "explain": "Persamaan reaksi 1,2 dan 3 merupakan redoks\nSedangkan persamaan reaksi 4 bukan redoks, karena tidak terjadi kenaikan maupun penurunan biloks.\n",
+            "answers": [
+                {
+                    "answer": "1 saja",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "A"
+                },
+                {
+                    "answer": "1 dan 2",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "B"
+                },
+                {
+                    "answer": "1,2, dan 3",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "1,2,3 dan 4",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "D"
+                },
+                {
+                    "answer": "4 saja",
+                    "correct_answer": true,
+                    "is_click": false,
+                    "option": "E"
+                }
+            ]
+        },
+        {
+            "body": "20. Jika diketahui persamaan sebagai berikut :\nKMnO₄(aq) + KI(aq) + H₂SO₄(aq) → MnSO₄(aq)  + I₂(aq) + K₂SO₄(aq) + H₂O(l)\nDari reaksi tersebut diketahui bahwa KI berperan sebagai …\n",
+            "image": "",
+            "explain": "KI(aq)  → I₂(aq) \nPada reaksi tersebut KI mengalami proses kenaikan biloks dari -1 ke 0, maka dalam hal ini KI berperan sebagai reduktor.\n",
+            "answers": [
+                {
+                    "answer": "Reduktor",
+                    "correct_answer": true,
+                    "is_click": false,
+                    "option": "A"
+                },
+                {
+                    "answer": "Oksidator",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "B"
+                },
+                {
+                    "answer": "Hasil Oksidasi",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "Hasil reduksi",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "D"
+                },
+                {
+                    "answer": "Isolator",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "E"
+                }
+            ]
+        }
+    ]
+}
