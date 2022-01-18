@@ -9,6 +9,7 @@ Konsep Reaksi Redoks berkembang mengikuti zaman. Mulanya pada abad ke-19 ahli ki
 Redoks merupakan reaksi dimana terjadi proses reduksi dan oksidasi. Reduksi merupakan proses pelepasan oksigen dimana zat yang mengalami reduksi disebut Oksidator. Sedangkan reaksi Oksidasi merupakan proses penggabungan oksigen, dimana zat yang mengalami oksidasi disebut reduktor. Contoh :
 
 ![Konsep Redoks Berdasarkan Penggabungan dan Pelepasan Oksigen](https://raw.githubusercontent.com/agungfir10/quiz-app-contents/master/images/konsep-redoks-berdasarkan-penggabungan-dan-pelepasan-oksigen.png)
+
 Contoh diatas mengalami reaksi reduksi dan oksidasi dalam satu reaksi sekaligus. Dapat diketahui bahwa CuO merupakan oksidator sebab setelah mengalami reaksi ia melepaskan oksigen,hal ini berarti telah terjadi reaksi reduksi. Sedangkan H2 merupakan reduktor dimana setelah reaksi terjadi ia menangkap satu unsur oksigen, hal ini berarti telah terjadi reaksi oksidasi.
 
 - Oksidasi merupakan peristiwa pengikatan oksigen

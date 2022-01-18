@@ -1,7 +1,7 @@
 {
     "contents": [
         {
-            "body": "<h3>1. Unsur mangan memiliki nilai oksidasi tertinggi pada senyawa...</h3>",
+            "body": "<h3>1. Tubuh manusia tersusun atas beberapa unsur logam salah satunya Mangan (Mn). Mn dalam tubuh manusia berfungsi untuk menjaga kesehatan otak, tulang serta membantu menghasilkan enzim untuk metabolisme tubuh untuk mengubah karbohidrat dan protein membentuk energi yang akan digunakan. Unsur mangan dibawah ini yang memiliki bilangan oksidasi tertinggi pada senyawa...</h3>",
             "image": "",
             "explain": "",
             "answers": [
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "body": "2. 2Cr + 3CuSO₄ → Cr₂(SO₄)₃ + 3Cu\nPada reaksi tersebut yang merupakan reduktor adalah....",
+            "body": "2. Garam kromium(III) sulfat (Cr2(SO4)3) berbentuk padatan dengan warna keunguan atau hijau yang dapat larut dalam air. Garam kromium (III) sulfat dapat diperoleh dari reaksi berikut :\n\n2Cr + 3CuSO<sub>4</sub> → Cr<sub>2</sub>(SO4)<sub>3</sub> + 3Cu\n\nPada reaksi tersebut yang berperan sebagai reduktor adalah...",
             "image": "",
             "explain": "Reduktor adalah suatu spesi yang mereduksi zat lainnya, namun spesi itu sendiri mengalami oksidasi.\nPada reaksi di atas, Cr mengalami perubahan biloks dari 0 menjadi +3, maka Cr mengalami oksidasi. Jadi, Cr bertindak sebagai reduktor.\n",
             "answers": [
@@ -70,12 +70,12 @@
                     "answer": "Cr dan CuSO₄",
                     "correct_answer": false,
                     "is_click": false,
-                    "option": "D"
+                    "option": "E"
                 }
             ]
         },
         {
-            "body": "3. Perhatikan reaksi berikut!\nZn(s) + NiCl₂(aq) →  ZnCl₂(aq) + Ni(s)\nPada reaksi tersebut bilangan oksidasi Zn berubah dari …",
+            "body": "3. Guna memenuhi kebutuhan zinc (Zn) dalam tubuh digunakan Zinc Chloride (ZnCl<sub>2</sub>) dalam bentuk injeksi sebagai larutan infus untuk nutrisi paranteral total(TPN). ZnCl<sub>2</sub> tersusun atas unsur Zinc dengan senyawa asam klorida seperti berikut : Zn<sub>(s)</sub> + 2HCl<sub>(aq)</sub> →  ZnCl<sub>2(aq)</sub> + H<sub>2(s)</sub>\n\nPada reaksi tersebut bilangan oksidasi Zn berubah dari...",
             "image": "",
             "explain": "Pada reaksi tersebut diketahui bahwa Zn mengalami perubahan biloks dari yang semula 0 pada unsur Zn kemudian naik menjadi +2 pada unsur ZnCl₂",
             "answers": [
@@ -112,7 +112,7 @@
             ]
         },
         {
-            "body": "4. Perhatikan reaksi berikut!\n2Fe²(aq) + Cl₂(g) →  2Fe³+(aq) + 2Cl-(aq)\nYang bertindak sebagai oksidator yakni …\n",
+            "body": "4. Perhatikan reaksi berikut!\n\n2Fe<sup>2+</sup>(aq) + Cl<sub>2(g)</sub> →  2Fe<sup>3+</sup><sub>(aq)</sub> + 2Cl-<sub>(aq)</sub>\n\nReaksi di atas merupakan reaksi redoks dimana disetiap zatnya memiliki peran masing-masing, baik reduktor, oksidator, hasil reduksi serta hasil oksidasi. Dalam reaksi di atas yang bertindak sebagai oksidator yakni...\n",
             "image": "",
             "explain": "Oksidator adalah suatu spesi yang mengoksidasi zat lainnya, namun spesi itu sendiri mengalami reduksi.\nPada reaksi di atas, Cl mengalami perubahan biloks dari 0 menjadi -1, maka Cl mengalami reduksi. Jadi, Cl bertindak sebagai oksidator.\n",
             "answers": [
@@ -149,7 +149,7 @@
             ]
         },
         {
-            "body": "5. Perhatikan reaksi berikut!\nMg + 2HCl → MgCl₂+H₂\nReaksi di atas disebut reaksi redoks. Pernyataan yang benar untuk reaksi di atas adalah …\n",
+            "body": "5. Magnesium Klorida terbentuk dari satu unsur Mangan serta dua senyawa asam klorida. Perhatikan reaksi berikut!\n\nMg + 2HCl  → MgCl<sub>2</sub> +H<sub>2</sub>\n\nReaksi diatas disebut reaksi redoks. Pernyataan yang benar untuk reaksi diatas adalah...",
             "image": "",
             "explain": "Pernyataan pada soal yang benar adalah E karena reaksi redoks merupakan reaksi reduksi oksidasi dimana pada reaksi tersebut Mg mengalami peningkatan bilangan oksidasi (oksidasi) dan Hidrogen mengalami penurunan bilangan oksidasi (reduksi)",
             "answers": [
@@ -186,7 +186,7 @@
             ]
         },
         {
-            "body": "6. Di bawah ini yang merupakan reaksi redoks adalah …",
+            "body": "6. Redoks merupakan reaksi kimia yang terjadi dari gabungan reaksi reduksi dan oksidasi dengan melibatkan perubahan bilangan oksidasi. Di bawah ini yang merupakan reaksi redoks adalah...",
             "image": "",
             "explain": "Reaksi yang termasuk redoks adalah 2HCl + Zn → ZnCl₂ + H₂ karena pada reaksi ini terjadi kenaikan bilangan oksidasi pada Zn dari 0 ke +2 dan penurunan bilangan oksidasi pada Hidrogen dari +1 ke 0.\nReaksi pada opsi a bukan merupakan reaksi redoks karena tidak terdapat proses reduksi ataupun oksidasi. Lalu reaksi pada opsi b bukan merupakan redoks karena tidak ada biloks yang berubah lalu pada reaksi opsi d bukan merupakan reaksi redoks karena hanya terdapat proses reaksi reduksi pada unsur Pb dan opsi e juga bukan merupakan reaksi redoks karena tidak terjadi reaksi reduksi maupun oksidasi.\n",
             "answers": [
@@ -223,7 +223,7 @@
             ]
         },
         {
-            "body": "7. Perhatikan reaksi berikut!\n3Cu + 8HNO₃ → 3Cu(NO₃)₂ + 4H₂O +2NO\nDalam reaksi tersebut yang bertindak sebagai pereduksi adalah …\n",
+            "body": "7. Tembaga nitrat (II) merupakan garam anorganik yyang cerah dengan warna biru kehijauan yang disintesis pada skala industri dari dekomposisi bijih tembaga. Warna yang menarik dari tembaga nitat (II) ini kemudian digunakan sebagai aditif dalam industri tekstil. Tembaga nitrat (II) (Cu(NO<sub>3</sub>)<sub>2</sub> diperoleh dari reaksi berikut :\n\nDalam reaksi tersebut yang bertindak sebagai pereduksi adalah...",
             "image": "",
             "explain": "Pada soal diketahui bahwa biloks Cu mengalami kenaikan dari 0 menjadi +2 maka Cu mengalami oksidasi maka Cu berperan sebagai reduktor atau pereduksi.",
             "answers": [
@@ -260,7 +260,7 @@
             ]
         },
         {
-            "body": "8. Perhatikan reaksi berikut!\n2KClO₃ → 2KCl + 2O₂\nAtom klor mengalami perubahan bilangan oksidasi menjadi …\n",
+            "body": "8. Buah kelengkeng termasuk buah musiman dimana ia hanya akan berbuah di akhir tahun sampai bulan Februari. Namun dengan perkembangan zaman saat ini petani dapat  mempercepat pertumbuhan tanaman kelengkeng melalui pupuk yang memiliki kandungan potasium klorat (KClO<sub>3</sub>). KClO<sub>3</sub> merupakan suatu pengoksidasi yang digunakan secara luas untuk mengatur pembungaan tanaman kelengkeng. Potasium klorat memiliki reaksi sebagai berikut :\n\n2KCl<sub>O</sub>3 → 2KCl + 2O<sub>2</sub>\n\nAtom klor pada reaksi di atas mengalami perubahan bilangan oksidasi dari +7 menjadi...",
             "image": "",
             "explain": "Pada reaksi tersebut atom klor mengalami penurunan bilangan oksidasi. Pada senyawa KClO₃  atom klor memiliki bilangan oksidasi +7 kemudian pada KCl bilangan oksidasi atom klor menjadi +1",
             "answers": [
@@ -297,31 +297,31 @@
             ]
         },
         {
-            "body": "9. Berikut yang termasuk reaksi oksidasi yang benar adalah …",
+            "body": "9. Dalam reaksi redoks tersusun atas reaksi reduksi juga oksidasi. Ketika terjadi reaksi oksidasi maka terjadi penurunan biloks pada spesi tertentu. Berikut yang termasuk reaksi oksidasi yang benar adalah...",
             "image": "",
             "explain": "Reaksi oksidasi merupakan  peristiwa pengikatan oksigen oleh suatu zat. Pada soal yang termasuk reaksi oksidasi adalah opsi a, sedang opsi b,c,d dan e merupakan reaksi reduksi sebab terjadi peristiwa pelepasan elektron pada obsi b,c, d dan e.",
             "answers": [
                 {
-                    "answer": "Mg(s) + 2e- → Mg²+",
-                    "correct_answer": true,
-                    "is_click": false,
-                    "option": "A"
-                },
-                {
                     "answer": "Na(s) → Na²+(aq) + 2e-",
                     "correct_answer": false,
                     "is_click": false,
-                    "option": "B"
+                    "option": "A"
                 },
                 {
                     "answer": "Cu²+(aq) → Cu(s) + 2e-",
                     "correct_answer": false,
                     "is_click": false,
-                    "option": "C"
+                    "option": "B"
                 },
                 {
                     "answer": "Al(s) → Al3+(aq) + 3e-",
                     "correct_answer": false,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "Mg(s) + 2e- → Mg²+",
+                    "correct_answer": true,
                     "is_click": false,
                     "option": "D"
                 },
@@ -334,7 +334,7 @@
             ]
         },
         {
-            "body": "10. Perhatikan reaksi berikut!\nZn(s) + CuO(aq) → ZnO₂(aq) + Cu(s)\nReaksi di atas mengalami proses …\n",
+            "body": "10. Seorang bayi biasanya rentan mengalami biang keringat dimana terlihat terdapat ruam pada kulitnya. Kemudian dewasa kini banyak produk yang dikembangkan baik salep ataupun bedak bayi untuk mengobati ruam tersebut. Salep ataupun bedak yang dikembangkan mengandung senyawa Zinc Oxide didalamnya. Zinc Oxide (ZnO) merupakan mineral berbentuk bubuk dengan warna putih yang sering digunakan untuk pelindung kulit serta meredakan radang yang muncul sebagai ruam.  ZnO tersusun atas unsur Zn dan senyawa CuO sebagai berikut :\n\nZn<sub>(s)</sub> + CuO<sub>(aq)</sub> → ZnO<sub>2(aq)</sub> + Cu<sub>(s)</sub>\n\nReaksi diatas mengalami proses...",
             "image": "",
             "explain": "‘Zn di reaktan tidak memiliki oksigen sedang Zn di produk memiliki oksigen, artinya atom Zn telah mengikat oksigen yang diberikan oleh CuO, maka Zn mengalami oksidasi. Sedang CuO yang memberikan atom oksigennya pada Zn hingga akhirnya terbentuk atom Cu maka CuO mengalami proses reduksi.\nMaka reaksi tersebut mengalami reaksi rduksi dan oksidasi\n",
             "answers": [
@@ -371,7 +371,7 @@
             ]
         },
         {
-            "body": "11. Bilangan oksidasi pada atom MnO₄²- adalah …",
+            "body": "11. Dalam tata nama anorganik, Manganat (MnO<sub>4</sub><sup>2-</sup>) merupakan entitas molekul bermuatan negatif dengan mangan sebagai atom pusatnya. Bilangan oksidasi unsur Mangan (Mn) pada atom MnO<sub>4</sub><sup>2</sup>- adalah...",
             "image": "",
             "explain": "Mn + (bo O x 4) = -2\nMn + (-2 x 4) = -2\nMn -8 = -2\nMn = -2 + 8 = +6\n",
             "answers": [
@@ -445,7 +445,7 @@
             ]
         },
         {
-            "body": "13. Atom nitrogen pada senyawa N₂O₃ memiliki bilangan oksidasi …",
+            "body": "13. Dinitrogen Trioksida (N<sub>2</sub>O<sub>3</sub>) disusun atas unsur nitrogen dan oksigen yang hanya dapat diisolasi pada suhu rendah yakni pada fase air dan padatnya. Atom nitrogen didalam senyawa N<sub>2</sub>O<sub>3</sub> memiliki bilangan oksidasi...",
             "image": "",
             "explain": "Bilangan oksidgen N pada N₂O₃ :\nN x 1 + (bo H x 4) = +1\nN + (1x4) = +1\nN = 1-4 = -3\n",
             "answers": [
@@ -519,44 +519,44 @@
             ]
         },
         {
-            "body": "15. Bilangan oksidasi Fe pada FeSO₄ adalah …",
+            "body": "15. Proses autoredoks merupakan salah satu peristiwa yang terjadi pada reaksi redoks. Autoredoks dapat terjadi ketika suatu zat mengalami reaksi reduksi dan reaksi oksidasi dalam zat yang sama...\nPerhatikan beberapa reaksi berikut!\n1) 2H<sub>2</sub>S + SO<sub>2</sub>  → 3S + 2H<sub>2</sub>O\n2) Cl<sub>2</sub> + 2KOH → KCl + KClO + H<sub>2</sub>O\n3) H<sub>2</sub>O<sub>2</sub>  → H<sub>2</sub>O + O<sub>2</sub>\n4) 2Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub> +4HCl → 2S + 2SO2 +2H<sub>2</sub>O + 4 NaCl\n5) Pb + PbO<sub>2</sub> + 2H<sub>2</sub>SO<sub>4</sub> → 2PbSO<sub>4</sub> + 2H<sub>2</sub>O\nDiantara beberapa reaksi di atas yang merupakan reaksi autoredoks adalah...",
             "image": "",
-            "explain": "FeSO₄ = (1 x bo Fe) + (1xbo S) + (4xbo S)\n0 = (1xFe) + (1x6) + (1x(-2))\n0 = Fe +6 – 8\nFe = +2\n",
+            "explain": "• Nomor 2 merupakan autoredoks sebab bilangan oksidasi atom Cl pada molekul Cl2 mengalami mengalami kenaikan serta penurunan biloks.\n• Nomor 3 merupakan reaksi autoredoks sebab H2O2 berperan sebagai oksidator sekaligus reduktor\n• Nomor 4 merupakan autoredoks sebab Na2S2O3 berperan sebagai oksidator sekaligus reduktor",
             "answers": [
                 {
-                    "answer": "-1",
+                    "answer": "1,2,3 dan 4",
                     "correct_answer": false,
                     "is_click": false,
                     "option": "A"
                 },
                 {
-                    "answer": "+1",
-                    "correct_answer": false,
+                    "answer": "2,3 dan 4",
+                    "correct_answer": true,
                     "is_click": false,
                     "option": "B"
                 },
                 {
-                    "answer": "0",
+                    "answer": "1,3 dan 4",
                     "correct_answer": false,
                     "is_click": false,
                     "option": "C"
                 },
                 {
-                    "answer": "-2",
+                    "answer": "3,4 da 5",
                     "correct_answer": false,
                     "is_click": false,
                     "option": "D"
                 },
                 {
-                    "answer": "+2",
-                    "correct_answer": true,
+                    "answer": "1,2 dan 3",
+                    "correct_answer": false,
                     "is_click": false,
                     "option": "E"
                 }
             ]
         },
         {
-            "body": "16. Perhatikan reaksi berikut!\nMnO₂+4HCl → MnCl₂ + Cl₂ + 2H₂O\nPeran MnO₂ , HCl, dan MnCl₂  berturut-turut pada reaksi tersebut adalah …",
+            "body": "16. Perhatikan reaksi berikut!\nMnO₂+4HCl → MnCl₂ + Cl₂ + 2H₂O\nReaksi di atas merupakan reaksi redoks dimana setiap zatnya memiliki peran baik sebagai reduktor, oksidator, hasil reduksi maupun hasil oksidasi. Peran MnO<sub>2</sub> , HCl, dan MnCl2  berturut-turut pada reaksi tersebut adalah...",
             "image": "",
             "explain": "• MnO₂ pada reaksi tersebut mengalami penurunan biloks dari +4 ke +2 sehingga disebut Oksidator\n• HCl pada reaksi tersebut mengalami kenaikan biloks dari -1 ke 0 sehingga disebut Reduktor\n• MnCl₂ merupakan hasil oksidasi dimana MnCl₂ merupakan zat diproduk akibat mengalami reaksi oksidasi",
             "answers": [
@@ -630,7 +630,7 @@
             ]
         },
         {
-            "body": "18. Perhatikan kegiatan berikut!\n1. Konsep redoks diterapkan dalam penyepuhan emas\n2. Dalam bidang industri diterapkan sebagai pelapisan serta pengolahan logam\n3. Pada metode lumpur aktif terjadi reaksi  reaksi oksidasi untuk pertumbuhan bakteri aerob dan terjadi proses reduksi pada proses substrata tau buangan\n4. Reaksi redoks digunakan dalam aki dan baterai sebagai sumber energi listrik\nDari beberapa kegiatan berikut yang termasuk kegiatan redoks dalam kehidupan sehari-hari adalah….\n",
+            "body": "18. Perhatikan kegiatan berikut!\n1) Konsep redoks   dalam penyepuhan emas\n2) Dalam bidang industri diterapkan sebagai   serta pengolahan logam\n3) Pada metode lumpur aktif terjadi reaksi  reaksi oksidasi untuk pertumbuhan bakteri aerob dan terjadi proses reduksi pada   substrata tau buangan\n4) Reaksi redoks digunakan dalam aki dan baterai sebagai sumber energi listrik\nDari beberapa kegiatan berikut yang termasuk kegiatan redoks dalam kehidupan sehari-hari adalah...",
             "image": "",
             "explain": "Yang merupakan kegiatan redoks dalam kegiatan sehari-hari diantaranya :\n\n1. Konsep redoks diterapkan dalam penyepuhan emas\n2. Dalam bidang industri diterapkan sebagai pelapisan serta pengolahan logam\n3. Pada metode lumpur aktif terjadi reaksi  reaksi oksidasi untuk pertumbuhan bakteri aerob dan terjadi proses reduksi pada proses substrata tau buangan\n4. Reaksi redoks digunakan dalam aki dan baterai sebagai sumber energi listrik\n",
             "answers": [
@@ -704,31 +704,31 @@
             ]
         },
         {
-            "body": "20. Jika diketahui persamaan sebagai berikut :\nKMnO₄(aq) + KI(aq) + H₂SO₄(aq) → MnSO₄(aq)  + I₂(aq) + K₂SO₄(aq) + H₂O(l)\nDari reaksi tersebut diketahui bahwa KI berperan sebagai …\n",
+            "body": "20. Jika diketahui persamaan sebagai berikut :\nKMnO<sub>4(aq)</sub> + KI<sub>(aq)</sub> + H<sub>2</sub>SO<sub>4</sub>(aq) → MnSO<sub>4(aq)</sub>  + I<sub>2(aq)</sub> + K<sub>2</sub>SO<sub>4(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub>\nSalah satu reaktan dalam reaksi di atas adalah KI. KI dalam perkembangannya dikembangkan sebagai obat yang digunakan untuk melunakkan lendir di saluran napas dan mengeluarkannya melalui batuk. Obat dengan kandungan KI didalamnya sangat membantu penderita penyakit paru-paru jangka panjang seperti asma, bronkitis kronis juga emfisema. Reaktan KI dalam reaksi diatas berperan sebagai...",
             "image": "",
             "explain": "KI(aq)  → I₂(aq) \nPada reaksi tersebut KI mengalami proses kenaikan biloks dari -1 ke 0, maka dalam hal ini KI berperan sebagai reduktor.\n",
             "answers": [
                 {
-                    "answer": "Reduktor",
-                    "correct_answer": true,
-                    "is_click": false,
-                    "option": "A"
-                },
-                {
                     "answer": "Oksidator",
                     "correct_answer": false,
                     "is_click": false,
-                    "option": "B"
+                    "option": "A"
                 },
                 {
                     "answer": "Hasil Oksidasi",
                     "correct_answer": false,
                     "is_click": false,
-                    "option": "C"
+                    "option": "B"
                 },
                 {
                     "answer": "Hasil reduksi",
                     "correct_answer": false,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "Reduktor",
+                    "correct_answer": true,
                     "is_click": false,
                     "option": "D"
                 },

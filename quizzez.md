@@ -266,11 +266,13 @@ e. +2
 
 15. Perhatikan beberapa reaksi berikut!
 
-1. 2H<sub>2</sub>S + SO<sub>2</sub> → 3S + 2H<sub>2</sub>O
-1. Cl<sub>2</sub> + 2KOH → KCl + KClO + H<sub>2</sub>O
-1. H<sub>2</sub>O<sub>2</sub> → H<sub>2</sub>O + O<sub>2</sub>
-1. 2Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub> +4HCl → 2S + 2SO<sub>2</sub> +2H<sub>2</sub>O + 4 NaCl
-1. Pb + PbO<sub>2</sub> + 2H<sub>2</sub>SO<sub>4</sub> → 2PbSO<sub>4</sub> + 2H<sub>2</sub>O
+<ol type="1">
+<li>2H<sub>2</sub>S + SO<sub>2</sub> → 3S + 2H<sub>2</sub>O</li>
+<li>Cl<sub>2</sub> + 2KOH → KCl + KClO + H<sub>2</sub>O</li>
+<li>H<sub>2</sub>O<sub>2</sub> → H<sub>2</sub>O + O<sub>2</sub></li>
+<li>2Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub> +4HCl → 2S + 2SO<sub>2</sub> +2H<sub>2</sub>O + 4 NaCl</li>
+<li>Pb + PbO<sub>2</sub> + 2H<sub>2</sub>SO<sub>4</sub> → 2PbSO<sub>4</sub> + 2H<sub>2</sub>O</li>
+</ol>
 
 Diantara beberapa reaksi diatas yang merupakan reaksi autoredoks adalah...
 
@@ -280,9 +282,11 @@ c. 1,3 dan 4
 d. 3,4 dan 5
 e. 1,2 dan 3
 
-- Nomor 2 merupakan autoredoks sebab bilangan oksidasi atom Cl pada molekul Cl<sub>2</sub> mengalami kenaikan serta penurunan biloks.
-- Nomor 3 merupakan reaksi autoredoks sebab H<sub>2</sub>O<sub>2</sub> berperan sebagai oksidator sekaligus reduktor
-- Nomor 4 merupakan autoredoks sebab Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub> berperan sebagai oksidator sekaligus reduktor
+<ul>
+<li>Nomor 2 merupakan autoredoks sebab bilangan oksidasi atom Cl pada molekul Cl<sub>2</sub> mengalami kenaikan serta penurunan biloks.</li>
+<li>Nomor 3 merupakan reaksi autoredoks sebab H<sub>2</sub>O<sub>2</sub> berperan sebagai oksidator sekaligus reduktor</li>
+<li>Nomor 4 merupakan autoredoks sebab Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub> berperan sebagai oksidator sekaligus reduktor</li>
+</ul>
 
 ###### Soal 16
 
