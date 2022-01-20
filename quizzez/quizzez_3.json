@@ -1,0 +1,152 @@
+{
+    "contents": [
+        {
+            "body": "1.&nbsp;Dalam reaksi redoks tersusun atas reaksi reduksi juga oksidasi. Ketika terjadi reaksi oksidasi maka terjadi penurunan biloks pada spesi tertentu. Berikut yang termasuk reaksi oksidasi yang benar adalah...",
+            "image": "",
+            "explain": "Reaksi oksidasi merupakan  peristiwa pengikatan oksigen oleh suatu zat. Pada soal yang termasuk reaksi oksidasi adalah opsi a, sedang opsi b,c,d dan e merupakan reaksi reduksi sebab terjadi peristiwa pelepasan elektron pada obsi b,c, d dan e.",
+            "answers": [
+                {
+                    "answer": "Na<sub>(s)</sub> → Na<sup>2+</sup><sub>(aq)</sub> + 2e<sup>-</sup>",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "A"
+                },
+                {
+                    "answer": "Cu<sup>2+</sup><sub>(aq)</sub> → Cu<sub>(s)</sub> + 2e<sup>-</sup>",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "B"
+                },
+                {
+                    "answer": "Al<sub>(s)</sub> → Al<sup>3+</sup><sub>(aq)</sub> + 3e<sup>-</sup>",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "Mg<sub>(s)</sub> + 2e<sup>-</sup> → Mg<sup>2+</sup><sub>(aq)</sub>",
+                    "correct_answer": true,
+                    "is_click": false,
+                    "option": "D"
+                },
+                {
+                    "answer": "Ca<sub>(s)</sub> → Ca<sup>3+</sup><sub>(aq)</sub> + 3e<sup>-</sup>",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "E"
+                }
+            ]
+        },
+        {
+            "body": "2.&nbsp;Seorang bayi biasanya rentan mengalami biang keringat dimana terlihat terdapat ruam pada kulitnya. Kemudian dewasa kini banyak produk yang dikembangkan baik salep ataupun bedak bayi untuk mengobati ruam tersebut. Salep ataupun bedak yang dikembangkan mengandung senyawa Zinc Oxide didalamnya. Zinc Oxide (ZnO) merupakan mineral berbentuk bubuk dengan warna putih yang sering digunakan untuk pelindung kulit serta meredakan radang yang muncul sebagai ruam.  ZnO tersusun atas unsur Zn dan senyawa CuO sebagai berikut :<br><br>Zn<sub>(s)</sub> + CuO<sub>(aq)</sub> → ZnO<sub>2(aq)</sub> + Cu<sub>(s)</sub><br><br>Reaksi diatas mengalami proses...",
+            "image": "",
+            "explain": "‘Zn di reaktan tidak memiliki oksigen sedang Zn di produk memiliki oksigen, artinya atom Zn telah mengikat oksigen yang diberikan oleh CuO, maka Zn mengalami oksidasi. Sedang CuO yang memberikan atom oksigennya pada Zn hingga akhirnya terbentuk atom Cu maka CuO mengalami proses reduksi.<br>Maka reaksi tersebut mengalami reaksi rduksi dan oksidasi<br>",
+            "answers": [
+                {
+                    "answer": "Oksidasi",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "A"
+                },
+                {
+                    "answer": "Reduksi",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "B"
+                },
+                {
+                    "answer": "Reduksi – Oksidasi",
+                    "correct_answer": true,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "Kenaikan bilangan oksidasi",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "D"
+                },
+                {
+                    "answer": "Penurunan bilangan oksidasi",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "E"
+                }
+            ]
+        },
+        {
+            "body": "3.&nbsp;Dalam tata nama anorganik, Manganat (MnO<sub>4</sub><sup>2-</sup>) merupakan entitas molekul bermuatan negatif dengan mangan sebagai atom pusatnya. Bilangan oksidasi unsur Mangan (Mn) pada atom MnO<sub>4</sub><sup>2</sup>- adalah...",
+            "image": "",
+            "explain": "Mn + (bo O x 4) = -2<br>Mn + (-2 x 4) = -2<br>Mn -8 = -2<br>Mn = -2 + 8 = +6<br>",
+            "answers": [
+                {
+                    "answer": "+4",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "A"
+                },
+                {
+                    "answer": "-4",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "B"
+                },
+                {
+                    "answer": "-6",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "+6",
+                    "correct_answer": true,
+                    "is_click": false,
+                    "option": "D"
+                },
+                {
+                    "answer": "-2",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "E"
+                }
+            ]
+        },
+        {
+            "body": "4.&nbsp;Perhatikan reaksi berikut!<br><sub>3</sub><sup>2-</sup> → SO<sub>4</sub><sup>2-</sup><br>Reaksi di atas merupakan reaksi …<br>",
+            "image": "",
+            "explain": "Reaksi SO<sub>3</sub><sup>2-</sup> → SO<sub>4</sub><sup>2-</sup> mengalami proses oksidasi dimana bilangan oksidasi S berubah dari +4 menjadi +6",
+            "answers": [
+                {
+                    "answer": "Redoks",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "A"
+                },
+                {
+                    "answer": "Reduksi",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "B"
+                },
+                {
+                    "answer": "Kenaikan dan Penurunan bilangan oksidasi",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "Penurunan bilangan oksidasi",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "D"
+                },
+                {
+                    "answer": "Kenaikan bilangan oksidasi",
+                    "correct_answer": true,
+                    "is_click": false,
+                    "option": "E"
+                }
+            ]
+        }
+    ]
+}

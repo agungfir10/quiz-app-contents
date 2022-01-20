@@ -1,0 +1,152 @@
+{
+    "contents": [
+        {
+            "body": "1.&nbsp;Tubuh manusia tersusun atas beberapa unsur logam salah satunya Mangan (Mn). Mn dalam tubuh manusia berfungsi untuk menjaga kesehatan otak, tulang serta membantu menghasilkan enzim untuk metabolisme tubuh untuk mengubah karbohidrat dan protein membentuk energi yang akan digunakan. Unsur mangan dibawah ini yang memiliki bilangan oksidasi tertinggi pada senyawa...",
+            "image": "",
+            "explain": "MnO<sub>4</sub><sup>-</sup> memiliki biloks +7<br>Mn Mn + (bo O x 4) = -1<br>Mn + (-2 x 4) = -1<br>Mn -8 = -1<br>Mn = -1 + 8  = +7",
+            "answers": [
+                {
+                    "answer": "MnO<sub>2</sub>",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "A"
+                },
+                {
+                    "answer": "Mn",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "B"
+                },
+                {
+                    "answer": "MnO₄<sup>-</sup>",
+                    "correct_answer": true,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "MnO₄²",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "D"
+                },
+                {
+                    "answer": "MnSO₄",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "E"
+                }
+            ]
+        },
+        {
+            "body": "2.&nbsp;Garam kromium(III) sulfat (Cr<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>) berbentuk padatan dengan warna keunguan atau hijau yang dapat larut dalam air. Garam kromium (III) sulfat dapat diperoleh dari reaksi berikut :<br><br>2Cr + 3CuSO<sub>4</sub> → Cr<sub>2</sub>(SO4)<sub>3</sub> + 3Cu<br><br>Pada reaksi tersebut yang berperan sebagai reduktor adalah...",
+            "image": "",
+            "explain": "Reduktor adalah suatu spesi yang mereduksi zat lainnya, namun spesi itu sendiri mengalami oksidasi.<br>Pada reaksi di atas, Cr mengalami perubahan biloks dari 0 menjadi +3, maka Cr mengalami oksidasi. Jadi, Cr bertindak sebagai reduktor.<br>",
+            "answers": [
+                {
+                    "answer": "Cr",
+                    "correct_answer": true,
+                    "is_click": false,
+                    "option": "A"
+                },
+                {
+                    "answer": "CuSO₄",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "B"
+                },
+                {
+                    "answer": "Cu",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "Cr₂(SO₄)₃",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "D"
+                },
+                {
+                    "answer": "Cr dan CuSO₄",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "E"
+                }
+            ]
+        },
+        {
+            "body": "3.&nbsp;Guna memenuhi kebutuhan zinc (Zn) dalam tubuh digunakan Zinc Chloride (ZnCl<sub>2</sub>) dalam bentuk injeksi sebagai larutan infus untuk nutrisi paranteral total(TPN). ZnCl<sub>2</sub> tersusun atas unsur Zinc dengan senyawa asam klorida seperti berikut : Zn<sub>(s)</sub> + 2HCl<sub>(aq)</sub> →  ZnCl<sub>2(aq)</sub> + H<sub>2(s)</sub><br><br>Pada reaksi tersebut bilangan oksidasi Zn berubah dari...",
+            "image": "",
+            "explain": "Pada reaksi tersebut diketahui bahwa Zn mengalami perubahan biloks dari yang semula 0 pada unsur Zn kemudian naik menjadi +2 pada unsur ZnCl₂",
+            "answers": [
+                {
+                    "answer": "-2 menjadi 0",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "A"
+                },
+                {
+                    "answer": "-2 menjadi +2",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "B"
+                },
+                {
+                    "answer": "+2 menjadi 0",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "0 menjadi -2",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "D"
+                },
+                {
+                    "answer": "0 menjadi +2",
+                    "correct_answer": true,
+                    "is_click": false,
+                    "option": "E"
+                }
+            ]
+        },
+        {
+            "body": "4.&nbsp;Perhatikan reaksi berikut!<br><br>2Fe<sup>2+</sup>(aq) + Cl<sub>2(g)</sub> →  2Fe<sup>3+</sup><sub>(aq)</sub> + 2Cl-<sub>(aq)</sub><br><br>Reaksi di atas merupakan reaksi redoks dimana disetiap zatnya memiliki peran masing-masing, baik reduktor, oksidator, hasil reduksi serta hasil oksidasi. Dalam reaksi di atas yang bertindak sebagai oksidator yakni...<br>",
+            "image": "",
+            "explain": "Oksidator adalah suatu spesi yang mengoksidasi zat lainnya, namun spesi itu sendiri mengalami reduksi.<br>Pada reaksi di atas, Cl mengalami perubahan biloks dari 0 menjadi -1, maka Cl mengalami reduksi. Jadi, Cl bertindak sebagai oksidator.<br>",
+            "answers": [
+                {
+                    "answer": "CI₂",
+                    "correct_answer": true,
+                    "is_click": false,
+                    "option": "A"
+                },
+                {
+                    "answer": "Cl",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "B"
+                },
+                {
+                    "answer": "Cl‾",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "Fe²+",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "D"
+                },
+                {
+                    "answer": "Fe³+",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "E"
+                }
+            ]
+        }
+    ]
+}

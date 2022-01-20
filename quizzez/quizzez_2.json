@@ -1,0 +1,152 @@
+{
+    "contents": [
+        {
+            "body": "1.&nbsp;Magnesium Klorida terbentuk dari satu unsur Mangan serta dua senyawa asam klorida. Perhatikan reaksi berikut!<br><br>Mg + 2HCl  → MgCl<sub>2</sub> +H<sub>2</sub><br><br>Reaksi diatas disebut reaksi redoks. Pernyataan yang benar untuk reaksi diatas adalah...",
+            "image": "",
+            "explain": "Pernyataan pada soal yang benar adalah E karena reaksi redoks merupakan reaksi reduksi oksidasi dimana pada reaksi tersebut Mg mengalami peningkatan bilangan oksidasi (oksidasi) dan Hidrogen mengalami penurunan bilangan oksidasi (reduksi)",
+            "answers": [
+                {
+                    "answer": "Ion Cl- berubah menajdi senyawa MgCl₂",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "A"
+                },
+                {
+                    "answer": "Senyawa HCl berubah menjadi MgCl₂",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "B"
+                },
+                {
+                    "answer": "Logam Mg berubah menjadi senyawa MgCl₂",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "Logam Mg mengikat H dari senyawa HCl",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "D"
+                },
+                {
+                    "answer": "Logam Mg mengalami peningkatan bilangan oksidasi dan hidrogen mengalami penurunan bilangan oksidasi",
+                    "correct_answer": true,
+                    "is_click": false,
+                    "option": "E"
+                }
+            ]
+        },
+        {
+            "body": "2.&nbsp;Redoks merupakan reaksi kimia yang terjadi dari gabungan reaksi reduksi dan oksidasi dengan melibatkan perubahan bilangan oksidasi. Di bawah ini yang merupakan reaksi redoks adalah...",
+            "image": "",
+            "explain": "Reaksi yang termasuk redoks adalah 2HCl + Zn → ZnCl₂ + H₂ karena pada reaksi ini terjadi kenaikan bilangan oksidasi pada Zn dari 0 ke +2 dan penurunan bilangan oksidasi pada Hidrogen dari +1 ke 0.<br>Reaksi pada opsi a bukan merupakan reaksi redoks karena tidak terdapat proses reduksi ataupun oksidasi. Lalu reaksi pada opsi b bukan merupakan redoks karena tidak ada biloks yang berubah lalu pada reaksi opsi d bukan merupakan reaksi redoks karena hanya terdapat proses reaksi reduksi pada unsur Pb dan opsi e juga bukan merupakan reaksi redoks karena tidak terjadi reaksi reduksi maupun oksidasi.<br>",
+            "answers": [
+                {
+                    "answer": "2NaOH + H₂SO₄ → Na<sub>2</sub>SO<sub>4</sub> +2H₂O",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "A"
+                },
+                {
+                    "answer": "AgNO₃ + NaCl → AgCl + NaNO₃",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "B"
+                },
+                {
+                    "answer": "2HCl + Zn → ZnCl₂ + H₂",
+                    "correct_answer": true,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "PbO₂ + 2H₂SO₄ +Pb → 2Pb₂SO₄ + 2H₂O",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "D"
+                },
+                {
+                    "answer": "Pb(NO₃)₂ + 2KI → PbI₂ +2KNO₃",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "E"
+                }
+            ]
+        },
+        {
+            "body": "3.&nbsp;Tembaga nitrat (II) merupakan garam anorganik yyang cerah dengan warna biru kehijauan yang disintesis pada skala industri dari dekomposisi bijih tembaga. Warna yang menarik dari tembaga nitat (II) ini kemudian digunakan sebagai aditif dalam industri tekstil. Tembaga nitrat (II) (Cu(NO<sub>3</sub>)<sub>2</sub> diperoleh dari reaksi berikut :<br><br>Dalam reaksi tersebut yang bertindak sebagai pereduksi adalah...",
+            "image": "",
+            "explain": "Pada soal diketahui bahwa biloks Cu mengalami kenaikan dari 0 menjadi +2 maka Cu mengalami oksidasi maka Cu berperan sebagai reduktor atau pereduksi.",
+            "answers": [
+                {
+                    "answer": "NO",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "A"
+                },
+                {
+                    "answer": "Cu",
+                    "correct_answer": true,
+                    "is_click": false,
+                    "option": "B"
+                },
+                {
+                    "answer": "3Cu(NO₃)",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "H₂O",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "D"
+                },
+                {
+                    "answer": "HNO₃",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "E"
+                }
+            ]
+        },
+        {
+            "body": "4.&nbsp;Buah kelengkeng termasuk buah musiman dimana ia hanya akan berbuah di akhir tahun sampai bulan Februari. Namun dengan perkembangan zaman saat ini petani dapat  mempercepat pertumbuhan tanaman kelengkeng melalui pupuk yang memiliki kandungan potasium klorat (KClO<sub>3</sub>). KClO<sub>3</sub> merupakan suatu pengoksidasi yang digunakan secara luas untuk mengatur pembungaan tanaman kelengkeng. Potasium klorat memiliki reaksi sebagai berikut :<br><br>2KClO<sub>3</sub> → 2KCl + 2O<sub>2</sub><br><br>Atom klor pada reaksi di atas mengalami perubahan bilangan oksidasi dari +7 menjadi...",
+            "image": "",
+            "explain": "Pada reaksi tersebut atom klor mengalami penurunan bilangan oksidasi. Pada senyawa KClO₃  atom klor memiliki bilangan oksidasi +7 kemudian pada KCl bilangan oksidasi atom klor menjadi +1",
+            "answers": [
+                {
+                    "answer": "-2",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "A"
+                },
+                {
+                    "answer": "-1",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "B"
+                },
+                {
+                    "answer": "0",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "C"
+                },
+                {
+                    "answer": "+1",
+                    "correct_answer": true,
+                    "is_click": false,
+                    "option": "D"
+                },
+                {
+                    "answer": "+2",
+                    "correct_answer": false,
+                    "is_click": false,
+                    "option": "E"
+                }
+            ]
+        }
+    ]
+}
